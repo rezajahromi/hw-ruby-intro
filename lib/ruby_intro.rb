@@ -82,9 +82,3 @@ class BookInStock
 	end
 
 end
-
-# puts starts_with_consonant? '_eza'
-
-# book1 = BookInStock.new('123_32', 25000)
-# puts book1.isbn
-# puts book1.price_as_string
